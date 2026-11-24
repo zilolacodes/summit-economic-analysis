@@ -39,5 +39,7 @@ To add a topic, append an entry to `MODULES`. To add questions, append them to `
 ## ⌨ Shortcuts
 `1–4` / `A–D` answer · `←` `→` navigate · `S` skip · `K` bookmark · `R` review later · `N` navigator · `L` notes · `M` sound · `?` help
 
-## 📜 License
-MIT
+## © Copyright
+© 2026. All rights reserved.
+
+This project is not open source. No part of it may be copied, modified, distributed or used without the author’s written permission.
